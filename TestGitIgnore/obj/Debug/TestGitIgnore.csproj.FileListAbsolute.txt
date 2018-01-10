@@ -1,5 +1,0 @@
-C:\Projects\TestGitIgnore\TestGitIgnore\TestGitIgnore\bin\Debug\TestGitIgnore.exe.config
-C:\Projects\TestGitIgnore\TestGitIgnore\TestGitIgnore\bin\Debug\TestGitIgnore.exe
-C:\Projects\TestGitIgnore\TestGitIgnore\TestGitIgnore\bin\Debug\TestGitIgnore.pdb
-C:\Projects\TestGitIgnore\TestGitIgnore\TestGitIgnore\obj\Debug\TestGitIgnore.exe
-C:\Projects\TestGitIgnore\TestGitIgnore\TestGitIgnore\obj\Debug\TestGitIgnore.pdb
